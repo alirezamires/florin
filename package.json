@@ -1,0 +1,14 @@
+{
+  "name": "florin",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "florin test"
+  },
+  "author": "alireza mires",
+  "license": "MIT",
+  "bin": {
+    "florin": "bin/cli.js"
+  }
+}
